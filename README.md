@@ -4,7 +4,7 @@ Visualizing Earthquake Data using GeoJSON data
 
 ### Overview of Project: Explain the purpose of this analysis.
 
-We vreated earthquake map with two different maps and the earthquake overlay. Now,we would like to see the earthquake data in relation to the tectonic plates’ location on the earth, all the earthquakes with a magnitude greater than 4.5 on the map, and the data on a third map.
+We created earthquake map with two different maps and the earthquake overlay. Now,we would like to see the earthquake data in relation to the tectonic plates’ location on the earth, all the earthquakes with a magnitude greater than 4.5 on the map, and the data on a third map.
 
 1. Add Tectonic Plate Data
 2. Add Major Earthquake Data
